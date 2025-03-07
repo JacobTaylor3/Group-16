@@ -17,12 +17,12 @@ function calculateReciprocal() {
 
 // TODO: Implement natural log function
 function naturalLog(value) {
-    return Math.LN10(value);
+  return Math.LN10(value);
 }
 
 // TODO: Implement sine function
 function sine(value) {
-  // return the sine of the value
+  return Math.sin(value);
 }
 
 // TODO: Implement cosine function
