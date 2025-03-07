@@ -17,7 +17,7 @@ function calculateReciprocal() {
 
 // TODO: Implement natural log function
 function naturalLog(value) {
-  // return the natural log of the value
+    return Math.LN10(value);
 }
 
 // TODO: Implement sine function
