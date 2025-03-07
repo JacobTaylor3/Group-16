@@ -1,6 +1,6 @@
 // TODO: Fix the square root function not displaying
 function calculateSquareRoot(value) {
-    // calc square root and return
+    // calc square root and return it
     const root = Math.sqrt(value);
     return root;
 }
